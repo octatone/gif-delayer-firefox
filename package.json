@@ -1,9 +1,10 @@
 {
   "name": "gif-delayer-firefox",
-  "fullName": "gif-delayer-firefox",
+  "fullName": "Gif Delayer",
   "id": "jid1-mqCpKcAruymyAA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Gif Delayer delays playing gifs until they are fully downloaded.",
+  "author": "Raymond May, Jr.",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "icon": "data/src/icons/icon48.png"
 }
