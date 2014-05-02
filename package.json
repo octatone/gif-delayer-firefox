@@ -5,6 +5,6 @@
   "description": "Gif Delayer delays playing gifs until they are fully downloaded.",
   "author": "Raymond May, Jr.",
   "license": "MPL 2.0",
-  "version": "0.4",
+  "version": "0.5",
   "icon": "data/src/icons/icon48.png"
 }
